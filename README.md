@@ -1,6 +1,5 @@
 [![Build Status](https://dev.azure.com/tekbyts/Az-Pipeline/_apis/build/status/tekbyts.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/tekbyts/Az-Pipeline/_build/latest?definitionId=8&branchName=master)
 
-https://dev.azure.com/tekbyts/Az-Pipeline/_apis/build/status/tekbyts.pipelines-dotnet-core?branchName=master
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
